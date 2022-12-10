@@ -2,6 +2,4 @@
 
 |Date| Task/ Challenge |Task Status
 |--|--|--|
-11-19-22|FlexboxFroggy Site |Completed  
-
-![11-19-22](./11-19-22%20Class/)
+[11-19-22](./11-19-22%20Class/) |FlexboxFroggy Site |**[Completed Challenge Screenshot](./11-19-22%20Class/Flexboxfroggy.png)**
