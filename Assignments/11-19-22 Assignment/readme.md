@@ -3,4 +3,4 @@
 <!-- ![Challenge Completed SS](./Flexboxfroggy.PNG "Text to show on mouseover")  
 ![Image.PNG](./Flexboxfroggy.png "Text to show on mouseover") -->
 
-<img src="./Flexboxfroggy.png" alt="MarineGEO circle logo" style="height:500px; width:800px;"/>
+<img src="./Flexboxfroggy.png" alt="Challenge Completed SS" style="height:200px; width:400px;"/>
