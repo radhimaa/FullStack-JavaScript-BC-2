@@ -2,16 +2,17 @@
 ![](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?color=green)
 # Full Stack JavaScript Boot Camp 2.0
 
-## ![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode)
-Date | Article Title, Path |
-|--|--|  
-5th Nov'22 | [Introduction to Web and Html](https://fsjsv2assignmentsineuron.hashnode.dev/introduction-to-web-and-html) 
+<!-- ## ![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) -->
+Date|![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) | |![](https://img.shields.io/badge/Tasks-blue?style=plastic&logo=HTML5)|
+|--|--|--|--|
+Date | Article Title, Path |Date | Code Title, Path |
+5th Nov'22 | [Introduction to Web and Html](https://fsjsv2assignmentsineuron.hashnode.dev/introduction-to-web-and-html) |6th Nov'22| [Element wise Files](./Assignments/11-06-22%20Assignment/)
 
 \
 ![](https://img.shields.io/badge/Tasks-blue?style=plastic&logo=HTML5)
-Date | Code Title, Path |
+
 |--|--|
-6th Nov'22| [Element wise Files](./Assignments/11-06-22%20Assignment/)
+
 
 \
 ![](https://img.shields.io/badge/Online_Challenges-blue?style=plastic&logo=HTML5) ![](https://img.shields.io/badge/Online_Challenges-blue?style=plastic&logo=CSS3) ![](https://img.shields.io/badge/Online_Challenges-blue?style=plastic&logo=Javascript)
