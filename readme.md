@@ -3,7 +3,7 @@
 # Full Stack JavaScript Boot Camp 2.0
 
 <!-- ## ![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) -->
-Date|![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) | |![](https://img.shields.io/badge/Tasks-blue?style=plastic&logo=HTML5)|
+_\_|![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) | |![](https://img.shields.io/badge/Tasks-blue?style=plastic&logo=HTML5)|
 |--|--|--|--|
 Date | Article Title, Path |Date | Code Title, Path |
 5th Nov'22 | [Introduction to Web and Html](https://fsjsv2assignmentsineuron.hashnode.dev/introduction-to-web-and-html) |6th Nov'22| [Element wise Files](./Assignments/11-06-22%20Assignment/)
