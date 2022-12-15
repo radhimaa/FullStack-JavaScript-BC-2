@@ -6,7 +6,7 @@
 _\_|![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) | |![](https://img.shields.io/badge/Tasks-blue?style=plastic&logo=HTML5)|
 |--|--|--|--|
 Date | Article Title, Path |Date | Code Title, Path |
-5th Nov'22 | [Introduction to Web and Html](https://fsjsv2assignmentsineuron.hashnode.dev/introduction-to-web-and-html) |6th Nov'22| [Element wise Files](./Assignments/11-06-22%20Assignment/)
+5<sup>th</sup> Nov'22 | [Introduction to Web and Html](https://fsjsv2assignmentsineuron.hashnode.dev/introduction-to-web-and-html) |6<sup>th</sup> Nov'22| [Element wise Files](./Assignments/11-06-22%20Assignment/)
 | | |6<sup>th</sup> Nov'22| [Time Table Task with table tags](./Assignments/11-06-22%20Assignment/table%20tag.html)
 
 
@@ -20,7 +20,7 @@ Date | Article Title, Path |Date | Code Title, Path |
 ![](https://img.shields.io/badge/Online_Challenges-blue?style=plastic&logo=HTML5) ![](https://img.shields.io/badge/Online_Challenges-blue?style=plastic&logo=CSS3) ![](https://img.shields.io/badge/Online_Challenges-blue?style=plastic&logo=Javascript)
 Date | Code Title, Path |
 |--|--|
-19th Nov'22| [Flexbox Froggy CSS Challenge](./Assignments/11-19-22%20Assignment/)
+19<sup>th</sup> Nov'22| [Flexbox Froggy CSS Challenge](./Assignments/11-19-22%20Assignment/)
 
 \
 ![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode)
