@@ -7,8 +7,71 @@
     <title>Table Tag</title>
 </head>
 <body>
-    <table>
-        <tr></tr>
+    <style>
+        body{
+            font-family:Calibri;
+        }
+        th, td{
+            padding: 5px;
+        }
+        </style>
+    <table border=2 style="background-color:#007008;color:white">
+        <theader>
+            <tr>
+            <th>Week Day</th>
+            <th>Session-1</th>
+            <th>Session-2</th>
+            <th>_____</th>
+            <th>Session-3</th>
+            <th>Session-4</th>
+            <th>Session-5</th>
+        </tr>
+    </theader>
+    <tbody>
+        <tr>
+            <th>Monday</th>
+            <td>Mathematics</td>
+            <td>Physics</td>
+            <td rowspan="6" align=center style="font-size:24px"><b>L<br>U<br>N<br>C<br>H</b></td>
+            <td>PC Lab</td>
+            <td>English</td>
+            <td>Hindi</td>
+        </tr>
+        <tr>
+            <th>Tuesday</th>
+            <td>Chemistry</td>
+            <td>Mathematics</td>
+            <td colspan="3" align="center"  style="background-color:darkgreen;color:white">Computer Lab</td>
+            </tr>
+        <tr>
+            <th>Wednesday</th>
+            <td colspan="2" align="center"style="background-color:darkgreen;color:white">Computer Lab</td>
+            <td>Chemistry</td>
+            <td>Sanskrit</td>
+            <td>Boilogy</td>
+        </tr>
+        <tr>
+            <th>Thursday</th>
+            <td>Boilogy</td>
+            <td>Chemistry</td>
+            <td>Mathematics</td>
+            <td>Physics</td>
+            <td>Sanskrit</td>
+        </tr>
+        <tr>
+            <th>Friday</th>
+            <td rowspan="2"style="background-color:darkgreen;color:white">Web Dev Lab</td>
+            <td>Sanskrit</td>
+            <td colspan="3" align="center"style="background-color:darkgreen;color:white">Physical Games</td>
+        </tr>
+        <tr>
+            <th>Saturday</th>
+            <td>Hindi</td>
+            <td>Physics</td>
+            <td>Chemistry</td>
+            <td>Mathematics</td>
+        </tr>
+    </tbody>
     </table>
 </body>
 </html>
