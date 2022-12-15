@@ -7,7 +7,7 @@ _\_|![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=h
 |--|--|--|--|
 Date | Article Title, Path |Date | Code Title, Path |
 5th Nov'22 | [Introduction to Web and Html](https://fsjsv2assignmentsineuron.hashnode.dev/introduction-to-web-and-html) |6th Nov'22| [Element wise Files](./Assignments/11-06-22%20Assignment/)
-| | |6^th^ Nov'22| [Time Table Task with table tags](./Assignments/11-06-22%20Assignment/table%20tag.html)
+| | |6<sup>th</sup> Nov'22| [Time Table Task with table tags](./Assignments/11-06-22%20Assignment/table%20tag.html)
 
 
 
