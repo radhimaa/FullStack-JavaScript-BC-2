@@ -16,9 +16,9 @@
 _\_|![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) | |![](https://img.shields.io/badge/Tasks-blue?style=plastic&logo=HTML5)|
 |--|--|--|--|
 Date | Article Title, Path |Date | Code Title, Path |
-5<sup>th</sup> Nov'22 | [Introduction to Web and Html](https://fsjsv2assignmentsineuron.hashnode.dev/introduction-to-web-and-html) |6<sup>th</sup> Nov'22| [Element wise Files](./Assignments/11-06-22%20Assignment/)
+5<sup>th</sup> Nov'22 | Click here: [Introduction to Web and Html](https://fsjsv2assignmentsineuron.hashnode.dev/introduction-to-web-and-html) |6<sup>th</sup> Nov'22| [Element wise Files](./Assignments/11-06-22%20Assignment/)
 | | |6<sup>th</sup> Nov'22| [Time Table Task with table tags](./Assignments/11-06-22%20Assignment/table%20tag.html)
-17<sup>th</sup> Dec'22 | [Array Methods in JavaScript](https://fsjsv2assignmentsineuron.hashnode.dev/array-methods-in-javascript) |
+17<sup>th</sup> Dec'22 | Click here: [Array Methods in JavaScript](https://fsjsv2assignmentsineuron.hashnode.dev/array-methods-in-javascript) |
 
 
 
