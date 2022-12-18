@@ -1,8 +1,18 @@
 <!-- ![GitHub last commit](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=social) -->
-![](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?color=green)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%2300599C.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=for-the-badge&color=greenyellow)
+<!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
+
+
 # Full Stack JavaScript Boot Camp 2.0
 
 <!-- ## ![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) -->
+# 💻 Languages Used
+
+<img align="center" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=radhimaa&layout=compact">  
+
 _\_|![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) | |![](https://img.shields.io/badge/Tasks-blue?style=plastic&logo=HTML5)|
 |--|--|--|--|
 Date | Article Title, Path |Date | Code Title, Path |
