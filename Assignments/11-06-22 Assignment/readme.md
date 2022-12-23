@@ -1,10 +1,4 @@
-<!-- ![GitHub last commit](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=social) -->
-<!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%2300599C.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  -->
-![](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=for-the-badge&color=greenyellow)
-<!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
-
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=for-the-badge&color=greenyellow)
 
 # Element Wise code files
 
@@ -17,6 +11,15 @@ Date | File | CodePen Link for Reference |
 |--|--|--|
 6<sup>th</sup> Nov'22 | Audio Tag Code  [Click here for GitHub Code](audio%20tag.html) | [Click here for CodePen File](https://codepen.io/radhimaa/pen/GRBJQKy)
 
+
+
+
+
+<!-- ![GitHub last commit](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=social) -->
+<!-- 
+![CSS](https://img.shields.io/badge/css-%2300599C.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
 
 
 <!-- ![](https://img.shields.io/badge/Tasks-blue?style=plastic&logo=HTML5)
