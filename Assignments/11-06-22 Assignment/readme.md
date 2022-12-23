@@ -15,7 +15,7 @@
 
 Date | File | CodePen Link for Reference |
 |--|--|--|
-6<sup>th</sup> Nov'22 | Audio Tag Code  [Click here for GitHub Code](./Assignments/11-06-22%20Assignment/audio%20tag.html) | [Click here for CodePen File](https://codepen.io/radhimaa/pen/GRBJQKy)
+6<sup>th</sup> Nov'22 | Audio Tag Code  [Click here for GitHub Code](audio%20tag.html) | [Click here for CodePen File](https://codepen.io/radhimaa/pen/GRBJQKy)
 
 
 
