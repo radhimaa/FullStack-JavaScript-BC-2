@@ -13,8 +13,8 @@
 _\_|![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) | |![](https://img.shields.io/badge/Tasks-blue?style=plastic&logo=HTML5)|
 |--|--|--|--|
 Date | Article Title, Path |Date | Code Title, Path |
-5<sup>th</sup> Nov'22 | Click here: [Introduction to Web and Html](https://fsjsv2assignmentsineuron.hashnode.dev/introduction-to-web-and-html) |6<sup>th</sup> Nov'22| [Element wise Files](./Assignments/11-06-22%20Assignment/)
-6<sup>th</sup> Nov'22 | Click here: [Audio and Video Tags](https://fsjsv2assignmentsineuron.hashnode.dev/audio-and-video-tags) |6<sup>th</sup> Nov'22| [Time Table Task with table tags](./Assignments/11-06-22%20Assignment/table%20tag.html)
+5<sup>th</sup> Nov'22 | Click here: [Introduction to Web and Html](https://fsjsv2assignmentsineuron.hashnode.dev/introduction-to-web-and-html) |6<sup>th</sup> Nov'22| :file_folder: [Element wise Files](./Assignments/11-06-22%20Assignment/)
+6<sup>th</sup> Nov'22 | Click here: [Audio and Video Tags](https://fsjsv2assignmentsineuron.hashnode.dev/audio-and-video-tags) |6<sup>th</sup> Nov'22| [Github Link: &lt;table&gt;'s Time Table](./Assignments/11-06-22%20Assignment/table%20tag.html) <br> **[Codepen Link: Table Task](https://codepen.io/radhimaa/pen/PoBqgvE)**
 17<sup>th</sup> Dec'22 | Click here: [Array Methods in JavaScript](https://fsjsv2assignmentsineuron.hashnode.dev/array-methods-in-javascript)  |
 
 
@@ -30,8 +30,8 @@ Date | Code Title, Path |
 |--|--|
 19<sup>th</sup> Nov'22| [Flexbox Froggy CSS Challenge](./Assignments/11-19-22%20Assignment/)
 
-\
-![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode)
+<!-- \
+![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) -->
 <!-- [Day 1 Assignment](./Assignments/Hashnode/readme.md) -->
 <!-- ///![](https://img.shields.io/badge/HashNode-Assignment-blue?style=flat-square&logo=) -->
 
@@ -60,3 +60,51 @@ Date | Code Title, Path |
 [5th Nov Live Class - Introduction to Web and Html](https://fsjsv2assignmentsineuron.hashnode.dev/introduction-to-web-and-html)
 
 [Introduction to Web and Html](https://fsjsv2assignmentsineuron.hashnode.dev/introduction-to-web-and-html) -->
+
+
+<!-- For Reference
+
+Normal Text
+Headings
+# FSJS with Heading 1  
+##  FSJS BC 2.0 with Heading 2
+###  FSJS BC 2.0  with Heading 3
+####  FSJS BC 2.0  with Heading 4
+
+Format Style: _Batch 2.0 in Italics_  
+Format Style: **Batch 2.0 in Bold/ Strong**  
+Format Style: ~~Batch 2.0 in Strikethrough / Deleted~~
+
+**Link Style:** [Link to Open Google.com](https://www.google.com)  
+**Link Style:** [Link to Open CSS Assignment subfolder](./css_assignment/folder)  
+**Link Style:** [Site Link with Alt Text](https://www.google.com/ "Google.com")  
+
+![For Adding Image](./Assignments/Assets/html5-icon-trendy-flat-vector.jpg/  "ReSized Image")
+![For Adding Image](./Assignments/Assets/youtube-favicon.png/  "ReSized Image")
+
+|SI|Name|Age|Gender|
+|-|-|-|-|
+|1|`Radhim`|32|Male|
+
+```
+print("hello world")
+```
+
+> My Name is Radhim [double space for new line]  
+I work with HCL  
+Em Married  
+Not very much
+
+1. radhim
+2. radhim
+3. radhim
+
+- radhim
+- radhim
+- radhim
+
+[Badge creation](https://www.sheilds.io)  for making badges
+
+![](https://img.shields.io/badge/LiveClass-Github-blue)
+![](https://img.shields.io/badge/LiveClass-MarkDown-yellowgreen)
+ -->
