@@ -30,7 +30,10 @@ Date | Code Title, Path |
 |--|--|
 19<sup>th</sup> Nov'22| [Flexbox Froggy CSS Challenge](./Assignments/11-19-22%20Assignment/)
 
-<!-- \
+<!-- 
+
+git add . && git commit -m "readme" && git push origin main
+
 ![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) -->
 <!-- [Day 1 Assignment](./Assignments/Hashnode/readme.md) -->
 <!-- ///![](https://img.shields.io/badge/HashNode-Assignment-blue?style=flat-square&logo=) -->
