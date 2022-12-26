@@ -10,12 +10,39 @@
 
 <img align="center" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=radhimaa&layout=compact">  
 
-_\_|![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) | |![](https://img.shields.io/badge/Tasks-blue?style=plastic&logo=HTML5)|
-|--|--|--|--|
-Date | Article Title, Path |Date | Code Title, Path |
-5<sup>th</sup> Nov'22 | Link:<br> [Introduction to Web and Html](https://fsjsv2assignmentsineuron.hashnode.dev/introduction-to-web-and-html) |6<sup>th</sup> Nov'22| :file_folder: [Element wise Files](./Assignments/11-06-22%20Assignment/)
-6<sup>th</sup> Nov'22 | Links:<br> [1.HTML Audio and Video Elements](https://fsjsv2assignmentsineuron.hashnode.dev/html-audio-and-video-elements) <br>  [2. HTML Input Elements](https://fsjsv2assignmentsineuron.hashnode.dev/html-input-elements) |6<sup>th</sup> Nov'22| **&lt;table&gt;'s** Time Table Task: <br>[GitHub Code](./Assignments/11-06-22%20Assignment/table%20tag.html),[ Codepen Code](https://codepen.io/radhimaa/pen/PoBqgvE) <br> **&lt;Iframe&gt;'s**  Table Task: <br>[GitHub Code](./Assignments/11-06-22%20Assignment/iframe%20tag.html),[ Codepen Code](https://codepen.io/radhimaa/pen/PoBPrWg) 
-17<sup>th</sup> Dec'22 | Click here: [Array Methods in JavaScript](https://fsjsv2assignmentsineuron.hashnode.dev/array-methods-in-javascript)  |
+![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode)
+\
+11-05-22 : [Introduction to Web and Html](https://fsjsv2assignmentsineuron.hashnode.dev/introduction-to-web-and-html)
+\
+11-06-22 : [HTML Audio and Video Elements](https://fsjsv2assignmentsineuron.hashnode.dev/html-audio-and-video-elements)
+\
+11-06-22 : [HTML Input Elements](https://fsjsv2assignmentsineuron.hashnode.dev/html-input-elements)
+\
+12-17-22 : [Array Methods in JavaScript](https://fsjsv2assignmentsineuron.hashnode.dev/array-methods-in-javascript)
+
+
+![](https://img.shields.io/badge/Tasks-blue?style=plastic&logo=HTML5) 
+\
+11-06-22 :
+\
+:file_folder: [Element wise Files](./Assignments/11-06-22%20Assignment/)
+\
+Table Tag's Task: Time Table [Code: GitHub](./Assignments/11-06-22%20Assignment/table%20tag.html) , [Code: Codepen](https://codepen.io/radhimaa/pen/PoBqgvE)
+\
+Iframe Tag's Task: Table [Code: GitHub](./Assignments/11-06-22%20Assignment/iframe%20tag.html) , [Code: Codepen](https://codepen.io/radhimaa/pen/PoBPrWg)
+
+<!-- 
+#|_\_|![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) | |![](https://img.shields.io/badge/Tasks-blue?style=plastic&logo=HTML5)|
+|--|--|--|--|--|
+#|Date|Article Title, Path|Date|Code Title, Path|
+1<td rowspan=2>5<sup>th</sup> Nov'22 | Link: <td rowspan=6>6<sup>th</sup> Nov'22| :file_folder:
+2|  [Introduction to Web and Html](https://fsjsv2assignmentsineuron.hashnode.dev/introduction-to-web-and-html)|    [Element wise Files](./Assignments/11-06-22%20Assignment/)
+3<td rowspan=3> 6<sup>th</sup> Nov'22 |Links:|**&lt;table&gt;'s Task:** <BR>Time Table  
+4|  [HTML Audio and Video Elements](https://fsjsv2assignmentsineuron.hashnode.dev/html-audio-and-video-elements)|  [GitHub](./Assignments/11-06-22%20Assignment/table%20tag.html),[Codepen](https://codepen.io/radhimaa/pen/PoBqgvE)|
+5|   [2. HTML Input Elements](https://fsjsv2assignmentsineuron.hashnode.dev/html-input-elements)|   **&lt;Iframe&gt;'s**  Table Task:
+6|||[GitHub](./Assignments/11-06-22%20Assignment/iframe%20tag.html),[Codepen](https://codepen.io/radhimaa/pen/PoBPrWg)|
+8|--|--|--|
+8|17<sup>th</sup> Dec'22 | [Array Methods in JavaScript](https://fsjsv2assignmentsineuron.hashnode.dev/array-methods-in-javascript)  | -->
 
 
 
@@ -25,10 +52,11 @@ Date | Article Title, Path |Date | Code Title, Path |
 
 
 \
-![](https://img.shields.io/badge/Online_Challenges-blue?style=plastic&logo=HTML5) ![](https://img.shields.io/badge/Online_Challenges-blue?style=plastic&logo=CSS3) ![](https://img.shields.io/badge/Online_Challenges-blue?style=plastic&logo=Javascript)
-Date | Code Title, Path |
-|--|--|
-19<sup>th</sup> Nov'22| [Flexbox Froggy CSS Challenge](./Assignments/11-19-22%20Assignment/)
+![](https://img.shields.io/badge/Online_Challenges-blue?style=plastic&logo=HTML5)![](https://img.shields.io/badge/Online_Challenges-blue?style=plastic&logo=CSS3)![](https://img.shields.io/badge/Online_Challenges-blue?style=plastic&logo=JavaScript)
+\
+19<sup>th</sup> Nov'22:
+\
+[Flexbox Froggy CSS Challenge](./Assignments/11-19-22%20Assignment/)
 
 <!-- 
 
