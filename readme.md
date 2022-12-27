@@ -12,13 +12,13 @@
 
 ![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode)
 \
-11-05-22 : [Introduction to Web and Html](https://fsjsv2assignmentsineuron.hashnode.dev/introduction-to-web-and-html)
+11-05-22 : [Introduction to Web and Html](https://fsjsv2assignmentsineuron.hashnode.dev/introduction-to-web-and-html) 
 \
-11-06-22 : [HTML Audio and Video Elements](https://fsjsv2assignmentsineuron.hashnode.dev/html-audio-and-video-elements)
+11-06-22 : [HTML Audio and Video Elements](https://fsjsv2assignmentsineuron.hashnode.dev/html-audio-and-video-elements) 
 \
-11-06-22 : [HTML Input Elements](https://fsjsv2assignmentsineuron.hashnode.dev/html-input-elements)
+11-06-22 : [HTML Input Elements](https://fsjsv2assignmentsineuron.hashnode.dev/html-input-elements) 
 \
-12-17-22 : [Array Methods in JavaScript](https://fsjsv2assignmentsineuron.hashnode.dev/array-methods-in-javascript)
+12-17-22 : [Array Methods in JavaScript](https://fsjsv2assignmentsineuron.hashnode.dev/array-methods-in-javascript) 
 
 
 ![](https://img.shields.io/badge/Tasks-blue?style=plastic&logo=HTML5) 
