@@ -1,5 +1,9 @@
 <!-- ![GitHub last commit](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=social) -->
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/css-%2300599C.svg?style=for-the-badge&logo=CSS3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=for-the-badge&color=greenyellow)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=aqua&color=black)![CSS](https://img.shields.io/badge/css-%2300599C.svg?style=for-the-badge&logo=CSS3&logoColor=aqua&color=black)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=aqua&color=black)![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=aqua&color=black)![](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=for-the-badge&color=greenyellow)
+
+<!-- ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&color=black)
+![Javascript](https://img.shields.io/badge/-Javascript-61DAFB?logo=javascript&color=black) -->
+
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
 
 
