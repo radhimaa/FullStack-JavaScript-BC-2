@@ -1,5 +1,10 @@
 <!-- ![GitHub last commit](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=social) -->
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=aqua&color=black&logoWidth=30)![CSS](https://img.shields.io/badge/css-%2300599C.svg?style=for-the-badge&logo=CSS3&logoColor=aqua&color=black&logoWidth=30)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=aqua&color=black&logoWidth=30)![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=aqua&color=black&logoWidth=30)![](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=for-the-badge&color=greenyellow)
+![Html5](https://img.shields.io/badge/-html5-r?style=for-the-badge&logo=html5&logoColor=black&color=white&logoWidth=20)
+![CSS](https://img.shields.io/badge/-css-black?style=for-the-badge&logo=CSS3&logoColor=black&color=white&logoWidth=20)
+![JavaScript](https://img.shields.io/badge/-javascript-red?style=for-the-badge&logo=javascript&logoColor=black&color=white&logoWidth=20)
+![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=black&color=white&logoWidth=20)
+<!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
+![](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=for-the-badge&color=greenyellow)
 
 <!-- ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&color=black)
 ![Javascript](https://img.shields.io/badge/-Javascript-61DAFB?logo=javascript&color=black) -->
@@ -36,7 +41,7 @@
 <br>
 11-05-22 : [Introduction to Web and Html](https://fsjsv2assignmentsineuron.hashnode.dev/introduction-to-web-and-html) 
 <br>
-11-06-22 : [HTML's Audio and Video Elements](https://fsjsv2assignmentsineuron.hashnode.dev/html-audio-and-video-elements)[**: Code Example link**](https://codepen.io/radhimaa/pen/GRBJQKy) ![](https://img.shields.io/badge/-black?logo=Codepen)
+11-06-22 : [HTML's Audio and Video Elements](https://fsjsv2assignmentsineuron.hashnode.dev/html-audio-and-video-elements)[  **![](https://img.shields.io/badge/?style=social&logo=Codepen)Example link**](https://codepen.io/radhimaa/pen/GRBJQKy)
 <br>
 11-06-22 : [HTML's Input Elements](https://fsjsv2assignmentsineuron.hashnode.dev/html-input-elements) 
 <br>
@@ -113,7 +118,7 @@ git add . && git commit -m "readme" && git push origin main
 [Introduction to Web and Html](https://fsjsv2assignmentsineuron.hashnode.dev/introduction-to-web-and-html) -->
 
 
-<!-- For Reference
+For Reference
 
 Normal Text
 Headings
@@ -158,7 +163,7 @@ Not very much
 
 ![](https://img.shields.io/badge/LiveClass-Github-blue)
 ![](https://img.shields.io/badge/LiveClass-MarkDown-yellowgreen)
- -->
+
 
 
 # 📌 Acknowledgments
