@@ -1,10 +1,10 @@
 <!-- ![GitHub last commit](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=social) -->
-![Html5](https://img.shields.io/badge/-html5-r?style=for-the-badge&logo=html5&logoColor=black&color=white&logoWidth=20)
+![Html5](https://img.shields.io/badge/-html5-r?style=for-the-badge&logo=html5&logoColor=black&color=white&logoWidth=20&borderColor=red)
 ![CSS](https://img.shields.io/badge/-css-black?style=for-the-badge&logo=CSS3&logoColor=black&color=white&logoWidth=20)
 ![JavaScript](https://img.shields.io/badge/-javascript-red?style=for-the-badge&logo=javascript&logoColor=black&color=white&logoWidth=20)
 ![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=black&color=white&logoWidth=20)
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
-![](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=for-the-badge&color=greenyellow)
+![](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=for-the-badge&color=white)
 
 <!-- ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&color=black)
 ![Javascript](https://img.shields.io/badge/-Javascript-61DAFB?logo=javascript&color=black) -->
