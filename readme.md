@@ -8,28 +8,28 @@
 <!-- ## ![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) -->
 
 ### 💻 Languages Used
-<hr>
+<br>
 <img align="center" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=radhimaa&layout=compact">  
 
 ![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode)
-\
+<br>
 11-05-22 : [Introduction to Web and Html](https://fsjsv2assignmentsineuron.hashnode.dev/introduction-to-web-and-html) 
-\
+<br>
 11-06-22 : [HTML's Audio and Video Elements](https://fsjsv2assignmentsineuron.hashnode.dev/html-audio-and-video-elements) 
-\
+<br>
 11-06-22 : [HTML's Input Elements](https://fsjsv2assignmentsineuron.hashnode.dev/html-input-elements) 
-\
+<br>
 12-17-22 : [JavaScript's List of Array Methods](https://fsjsv2assignmentsineuron.hashnode.dev/array-methods-in-javascript) 
 
 
 ![](https://img.shields.io/badge/Tasks-blue?style=plastic&logo=HTML5) 
-\
+<br>
 11-06-22 :
-\
+<br>
 :file_folder: [Element wise Files](./Assignments/11-06-22%20Assignment/)
-\
+<br>
 Table Tag's Task: Time Table [Code: GitHub](./Assignments/11-06-22%20Assignment/table%20tag.html) , [Code: Codepen](https://codepen.io/radhimaa/pen/PoBqgvE)
-\
+<br>
 Iframe Tag's Task: Table [Code: GitHub](./Assignments/11-06-22%20Assignment/iframe%20tag.html) , [Code: Codepen](https://codepen.io/radhimaa/pen/PoBPrWg)
 
 <!-- 
