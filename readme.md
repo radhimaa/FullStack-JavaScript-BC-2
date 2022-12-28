@@ -8,14 +8,26 @@
 <!-- ## ![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) -->
 
 <aside align="right">
-<table align="right">
-<tr><td> 💻 <b>Languages Used</b>
-<tr><td rowspan=4 ><img width="75%" height="75%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=radhimaa&layout=compact">  
-<tr>
-<tr>
-<tr>
-</table>
+
+|💻 Languages Used|
+|--|
+|<img width="75%" height="75%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=radhimaa&layout=compact">
+|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=radhimaa&repo=FullStack-JavaScript-BC-2)](https://github.com/radhimaa/FullStack-JavaScript-BC-2)
 </aside>
+
+<!-- [![Radhikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=radhimaa)](https://github.com/radhimaa/github-readme-stats) -->
+
+<!-- ![Radhikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=radhimaa&show_icons=true) -->
+<!-- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=radhimaa&show_icons=true&theme=gruvbox) -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=radhimaa&repo=FullStack-JavaScript-BC-2)](https://github.com/radhimaa/github-readme-stats)
+
+
+
+
+
 
 ![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode)
 <br>
