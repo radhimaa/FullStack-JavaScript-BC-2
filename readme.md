@@ -36,7 +36,7 @@
 <br>
 11-05-22 : [Introduction to Web and Html](https://fsjsv2assignmentsineuron.hashnode.dev/introduction-to-web-and-html) 
 <br>
-11-06-22 : [HTML's Audio and Video Elements](https://fsjsv2assignmentsineuron.hashnode.dev/html-audio-and-video-elements) 
+11-06-22 : [HTML's Audio and Video Elements](https://fsjsv2assignmentsineuron.hashnode.dev/html-audio-and-video-elements)[**: Code Example link**](https://codepen.io/radhimaa/pen/GRBJQKy) ![](https://img.shields.io/badge/-black?logo=Codepen)
 <br>
 11-06-22 : [HTML's Input Elements](https://fsjsv2assignmentsineuron.hashnode.dev/html-input-elements) 
 <br>
