@@ -10,7 +10,7 @@
 <aside align="right">
 <table align="right">
 <tr><td> 💻 <b>Languages Used</b>
-<tr><td rowspan=4><img width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=radhimaa&layout=compact">  
+<tr><td rowspan=4 ><img width="75%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=radhimaa&layout=compact">  
 <tr>
 <tr>
 <tr>
