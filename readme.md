@@ -14,9 +14,9 @@
 
 ### 💻 Languages Used 
 ![](https://img.shields.io/badge/-h?style=for-the-badge&logo=html5&logoColor=black&color=white&logoWidth=20)![](https://img.shields.io/badge/-c?style=for-the-badge&logo=CSS3&logoColor=black&color=white&logoWidth=20)![](https://img.shields.io/badge/-j?style=for-the-badge&logo=javascript&logoColor=black&color=white&logoWidth=20)![](https://img.shields.io/badge/-r?style=for-the-badge&logo=react&logoColor=black&color=white&logoWidth=20)
-
+<aside align=right>
 <img width="47%" height="50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=radhimaa&repo=FullStack-JavaScript-BC-2&layout=compact">  
-
+</aside>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radhimaa&langs_count=8)](https://github.com/radhimaa/FullStack-JavaScript-BC-2)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=radhimaa&repo=FullStack-JavaScript-BC-2)](https://github.com/radhimaa/FullStack-JavaScript-BC-2) -->
