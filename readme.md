@@ -7,10 +7,13 @@
 
 <!-- ## ![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) -->
 
-<aside align="right"> 💻 <b>Languages Used</b><br>
-<img align="right" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=radhimaa&layout=compact">  
-</aside>
+<aside align="right">
+<table align="right">
+<tr><td> 💻 <b>Languages Used</b>
+<tr><td><img align="right" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=radhimaa&layout=compact">  
 
+</table>
+</aside>
 
 ![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode)
 <br>
