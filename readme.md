@@ -1,5 +1,5 @@
 <!-- ![GitHub last commit](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=social) -->
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=aqua&color=black)![CSS](https://img.shields.io/badge/css-%2300599C.svg?style=for-the-badge&logo=CSS3&logoColor=aqua&color=black)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=aqua&color=black)![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=aqua&color=black)![](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=for-the-badge&color=greenyellow)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=aqua&color=black&logoWidth=30)![CSS](https://img.shields.io/badge/css-%2300599C.svg?style=for-the-badge&logo=CSS3&logoColor=aqua&color=black&logoWidth=30)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=aqua&color=black&logoWidth=30)![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=aqua&color=black&logoWidth=30)![](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=for-the-badge&color=greenyellow)
 
 <!-- ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&color=black)
 ![Javascript](https://img.shields.io/badge/-Javascript-61DAFB?logo=javascript&color=black) -->
@@ -157,3 +157,10 @@ Not very much
 ![](https://img.shields.io/badge/LiveClass-Github-blue)
 ![](https://img.shields.io/badge/LiveClass-MarkDown-yellowgreen)
  -->
+
+
+# 📌 Acknowledgments
+
+- Course Instructor - [Hitesh Choudhary](https://github.com/hiteshchoudhary)
+- Icons Used For Tech Stack Section - [https://img.shields.io](https://img.shields.io)
+- Icons Used For Tech Stack Section - [Language Badges](https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b)
