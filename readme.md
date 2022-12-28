@@ -1,5 +1,4 @@
 <!-- ![GitHub last commit](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=social) -->
-![](https://img.shields.io/badge/-h?style=for-the-badge&logo=html5&logoColor=black&color=white&logoWidth=20)![CSS](https://img.shields.io/badge/-c?style=for-the-badge&logo=CSS3&logoColor=black&color=white&logoWidth=20)![](https://img.shields.io/badge/-j?style=for-the-badge&logo=javascript&logoColor=black&color=white&logoWidth=20)![](https://img.shields.io/badge/-r?style=for-the-badge&logo=react&logoColor=black&color=white&logoWidth=20)
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
 ![](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=for-the-badge&color=white)
 
@@ -14,6 +13,8 @@
 <!-- ## ![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) -->
 
 ### 💻 Languages Used 
+![](https://img.shields.io/badge/-h?style=for-the-badge&logo=html5&logoColor=black&color=white&logoWidth=20)![CSS](https://img.shields.io/badge/-c?style=for-the-badge&logo=CSS3&logoColor=black&color=white&logoWidth=20)![](https://img.shields.io/badge/-j?style=for-the-badge&logo=javascript&logoColor=black&color=white&logoWidth=20)![](https://img.shields.io/badge/-r?style=for-the-badge&logo=react&logoColor=black&color=white&logoWidth=20)
+
 <img width="47%" height="50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=radhimaa&repo=FullStack-JavaScript-BC-2&layout=compact">  
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radhimaa&langs_count=8)](https://github.com/radhimaa/FullStack-JavaScript-BC-2)
