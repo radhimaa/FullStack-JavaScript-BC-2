@@ -13,7 +13,7 @@
 <!-- ## ![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) -->
 
 ### 💻 Languages Used 
-![](https://img.shields.io/badge/-h?style=for-the-badge&logo=html5&logoColor=black&color=white&logoWidth=20)![CSS](https://img.shields.io/badge/-c?style=for-the-badge&logo=CSS3&logoColor=black&color=white&logoWidth=20)![](https://img.shields.io/badge/-j?style=for-the-badge&logo=javascript&logoColor=black&color=white&logoWidth=20)![](https://img.shields.io/badge/-r?style=for-the-badge&logo=react&logoColor=black&color=white&logoWidth=20)
+![](https://img.shields.io/badge/-h?style=for-the-badge&logo=html5&logoColor=black&color=white&logoWidth=20)![](https://img.shields.io/badge/-c?style=for-the-badge&logo=CSS3&logoColor=black&color=white&logoWidth=20)![](https://img.shields.io/badge/-j?style=for-the-badge&logo=javascript&logoColor=black&color=white&logoWidth=20)![](https://img.shields.io/badge/-r?style=for-the-badge&logo=react&logoColor=black&color=white&logoWidth=20)
 
 <img width="47%" height="50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=radhimaa&repo=FullStack-JavaScript-BC-2&layout=compact">  
 
