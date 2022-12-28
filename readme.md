@@ -12,9 +12,11 @@
 <!-- ## ![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) -->
 
 ### 💻 Languages Used 
-<img width="47%" height="50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=radhimaa&layout=compact">  
+<img width="47%" height="50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=radhimaa&repo=FullStack-JavaScript-BC-2&layout=compact">  
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=radhimaa&epo=FullStack-JavaScript-BC-2)](https://github.com/radhimaa/FullStack-JavaScript-BC-2) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radhimaa&langs_count=8)](https://github.com/radhimaa/FullStack-JavaScript-BC-2)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=radhimaa&repo=FullStack-JavaScript-BC-2)](https://github.com/radhimaa/FullStack-JavaScript-BC-2) -->
 
 
 <!-- [![Radhikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=radhimaa)](https://github.com/radhimaa/github-readme-stats) -->
