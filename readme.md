@@ -52,10 +52,8 @@ Iframe Tag's Task: Table [Code: GitHub](./Assignments/11-06-22%20Assignment/ifra
 
 
 \
-![](https://img.shields.io/badge/Online_Challenges-blue?style=plastic&logo=HTML5)![](https://img.shields.io/badge/Online_Challenges-blue?style=plastic&logo=CSS3)![](https://img.shields.io/badge/Online_Challenges-blue?style=plastic&logo=JavaScript)
-\
-19<sup>th</sup> Nov'22:
-\
+![](https://img.shields.io/badge/Online_Challenges-blue?style=plastic&logo=HTML5)![](https://img.shields.io/badge/Online_Challenges-blue?style=plastic&logo=CSS3)![](https://img.shields.io/badge/Online_Challenges-blue?style=plastic&logo=JavaScript)  
+19<sup>th</sup> Nov'22:  
 [Flexbox Froggy CSS Challenge](./Assignments/11-19-22%20Assignment/)
 
 <!-- 
