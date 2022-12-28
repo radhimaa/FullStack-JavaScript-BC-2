@@ -6,8 +6,9 @@
 # Full Stack JavaScript Boot Camp 2.0
 
 <!-- ## ![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) -->
-# 💻 Languages Used
 
+### 💻 Languages Used
+<hr>
 <img align="center" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=radhimaa&layout=compact">  
 
 ![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode)
