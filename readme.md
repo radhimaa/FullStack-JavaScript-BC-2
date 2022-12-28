@@ -7,8 +7,7 @@
 
 <!-- ## ![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) -->
 
-**💻 Languages Used**
-<aside>
+<aside> 💻 <b>Languages Used</b><br>
 <img align="right" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=radhimaa&layout=compact">  
 </aside>
 <br>
