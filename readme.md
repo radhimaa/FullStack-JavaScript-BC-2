@@ -170,4 +170,4 @@ Not very much
 
 - Course Instructor - [Hitesh Choudhary](https://github.com/hiteshchoudhary)
 - Icons Used For Tech Stack Section - [https://img.shields.io](https://img.shields.io)
-- Icons Used For Tech Stack Section - [Language Badges](https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b)
+- Badges Used From - [Link1](https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b) [Link2](https://github.com/Ileriayo/markdown-badges)
