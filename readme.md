@@ -7,10 +7,10 @@
 
 <!-- ## ![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) -->
 
-<aside> 💻 <b>Languages Used</b><br>
+<aside align="right"> 💻 <b>Languages Used</b><br>
 <img align="right" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=radhimaa&layout=compact">  
 </aside>
-<br>
+
 
 ![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode)
 <br>
