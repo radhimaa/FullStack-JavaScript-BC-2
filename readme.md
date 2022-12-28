@@ -3,7 +3,7 @@
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
 
 
-# Full Stack JavaScript Boot Camp 2.0
+## Full Stack JavaScript Boot Camp 2.0
 
 <!-- ## ![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) -->
 
