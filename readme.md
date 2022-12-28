@@ -8,9 +8,9 @@
 <!-- ## ![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) -->
 
 **💻 Languages Used**
-
-<img align="center" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=radhimaa&layout=compact">  
-
+<aside>
+<img align="right" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=radhimaa&layout=compact">  
+</aside>
 <br>
 
 ![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode)
