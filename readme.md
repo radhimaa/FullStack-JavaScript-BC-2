@@ -1,6 +1,6 @@
 <!-- ![GitHub last commit](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=social) -->
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
-![](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=for-the-badge&color=white)
+![](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=for-the-badge&color=blue)
 
 <!-- ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&color=black)
 ![Javascript](https://img.shields.io/badge/-Javascript-61DAFB?logo=javascript&color=black) -->
