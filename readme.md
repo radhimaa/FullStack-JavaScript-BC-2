@@ -21,6 +21,7 @@ git add . && git commit -m "readme" && git push origin main
 <!-- <aside><div align="right"> -->
 <img width="47%" height="50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=radhimaa&repo=FullStack-JavaScript-BC-2&layout=compact">  
 <!-- </div></aside> -->
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radhimaa&langs_count=8)](https://github.com/radhimaa/FullStack-JavaScript-BC-2)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=radhimaa&repo=FullStack-JavaScript-BC-2)](https://github.com/radhimaa/FullStack-JavaScript-BC-2) -->
@@ -43,7 +44,8 @@ git add . && git commit -m "readme" && git push origin main
 <br>
 11-05-22 : [Introduction to Web and Html](https://fsjsv2assignmentsineuron.hashnode.dev/introduction-to-web-and-html) 
 <br>
-11-06-22 : [HTML's Audio and Video Elements](https://fsjsv2assignmentsineuron.hashnode.dev/html-audio-and-video-elements)[  **![](https://img.shields.io/badge/?style=social&logo=Codepen)Example link**](https://codepen.io/radhimaa/pen/GRBJQKy)
+11-06-22 : [HTML's Audio and Video Elements](https://fsjsv2assignmentsineuron.hashnode.dev/html-audio-and-video-elements)[ **Example link**](https://codepen.io/radhimaa/pen/GRBJQKy)
+<!-- ![](https://img.shields.io/badge/Tasks-blue?style=social&logo=Codepen) -->
 <br>
 11-06-22 : [HTML's Input Elements](https://fsjsv2assignmentsineuron.hashnode.dev/html-input-elements) 
 <br>
