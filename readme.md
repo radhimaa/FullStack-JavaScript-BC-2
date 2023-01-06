@@ -1,4 +1,6 @@
-<!-- ![GitHub last commit](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=social) -->
+<!-- ![GitHub last commit](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=social) 
+git add . && git commit -m "readme" && git push origin main
+-->
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
 ![](https://img.shields.io/github/last-commit/radhimaa/FullStack-JavaScript-BC-2?style=for-the-badge&color=blue)
 
@@ -6,6 +8,7 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-61DAFB?logo=javascript&color=black) -->
 
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
+
 
 
 ## Full Stack JavaScript Boot Camp 2.0
@@ -84,7 +87,7 @@ Iframe Tag's Task: Table [Code: GitHub](./Assignments/11-06-22%20Assignment/ifra
 
 <!-- 
 
-git add . && git commit -m "readme" && git push origin main
+
 
 ![](https://img.shields.io/badge/HashNode_Articles-blue?style=plastic&logo=hashnode) -->
 <!-- [Day 1 Assignment](./Assignments/Hashnode/readme.md) -->
