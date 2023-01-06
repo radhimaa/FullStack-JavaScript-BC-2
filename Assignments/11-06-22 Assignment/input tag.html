@@ -9,8 +9,28 @@
 <body>
     <h2>Input Tags with Attributes</h2>
     <table border="1">
-        <tr><td>Attribute:</td>
-        <tr><td>Autocomplete</td>
+        <tr><td>Attribute:</td></tr>
+        <tr><td>Required</td>
+            <td>
+                Google Search:
+                <input type="search" name="" id="" size="30"><br>
+                First Name:
+                <input type="text" name="" id="" size="15" required placeholder="Enter First Name" autocomplete="given-name"><br>
+                Last Name:
+                <input type="text" name="" id="" size="15" required placeholder="Enter Last Name" autocomplete="family-name">
+                <br><br>
+                Telephone No:
+                <input type="tel" name="" id="" size="30" required>
+                <br>
+                Email Address:<input type="email" name="" id="" size="30" required autocomplete="email">
+                <br>
+                Please select Date and time of Birth:<input type="date" name="" id="" size="30" required>
+                <input type="time" name="" id=""  size="30" required>
+
+            </td>
+        </tr>
+
+            <tr><td>Autocomplete</td>
         <td>
             <!-- hidden, text, search, url, tel, email, date, month, week, time, datetime-local, number, range, color, and password -->
             <!-- Hidden Input Element:<input type="hidden" name="" autocomplete=""><br> -->
@@ -49,7 +69,7 @@
             Please select your LUCKY no.:
             <input type="number" name="" id="" size="3" autocomplete="number">
             <br>
-            <input type="range" name="" id="" ><br>
+            
             Please select your Favorite Color:
             <input type="color" name="" id=""><br>
             Username: 
@@ -75,6 +95,16 @@
         Country: <input type="radio" name="" id="" checked> India <sup>radio selection</sup><br>
         Country: <input type="checkbox" name="" id="" checked >India <sup>checkbox selection</sup><br>
         </td></tr>
+        <tr><td>Min , Max</td>
+            <td>
+                Range:<input type="range" name="" id="" min="10" max="15" size="15">
+            </td>
+        </tr>
+        <tr><td>Readonly</td>
+            <td>
+                Readonly text<input type="text" name="" id="" readonly size="40" placeholder="SORRY!  readonly attribute was applied">
+            </td>
+        </tr>
 
     </table>
 
