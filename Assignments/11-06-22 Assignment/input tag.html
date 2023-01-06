@@ -8,29 +8,30 @@
 </head>
 <body>
     <h2>Input Tags with Attributes</h2>
-    <table border="1">
+    <table>
+        <tr><td><table border="1">
         <tr><td>Attribute:</td></tr>
         <tr><td>Required</td>
-            <td>
+            <td>  <form action="" method="post">
                 Google Search:
-                <input type="search" name="" id="" size="30"><br>
-                First Name:
+                <input type="search" name="" id="" size="30" required placeholder="Attribute applied: required"><br>
+                First Name:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <input type="text" name="" id="" size="15" required placeholder="Enter First Name" autocomplete="given-name"><br>
-                Last Name:
+                Last Name:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <input type="text" name="" id="" size="15" required placeholder="Enter Last Name" autocomplete="family-name">
-                <br><br>
-                Telephone No:
-                <input type="tel" name="" id="" size="30" required>
+                <br>
+                Telephone No:<input type="tel" name="" id="" size="30" required>
                 <br>
                 Email Address:<input type="email" name="" id="" size="30" required autocomplete="email">
                 <br>
                 Please select Date and time of Birth:<input type="date" name="" id="" size="30" required>
-                <input type="time" name="" id=""  size="30" required>
-
+                <input type="time" name="" id=""  size="30" required><br>
+                <input type="submit" value="SUBMIT"><input type="reset" value="RESET">
+            </form>
             </td>
         </tr>
 
-            <tr><td>Autocomplete</td>
+        <tr><td>Autocomplete</td>
         <td>
             <!-- hidden, text, search, url, tel, email, date, month, week, time, datetime-local, number, range, color, and password -->
             <!-- Hidden Input Element:<input type="hidden" name="" autocomplete=""><br> -->
@@ -67,7 +68,7 @@
             <input type="week" name="" id="" size="30">
             <br>
             Please select your LUCKY no.:
-            <input type="number" name="" id="" size="3" autocomplete="number">
+            <input type="number" name="" id="" size="30" autocomplete="number" step="4">
             <br>
             
             Please select your Favorite Color:
@@ -83,31 +84,67 @@
 
         </td>
         </tr>
-        <tr><td>Disabled</td>
-        <td>
-        Country: <input type="text" name="" id=""
-        placeholder="Enter Country Name: India disabled"
-        disabled
-        size="30"></td></tr>
+
 
         <tr><td>Checked</td>
         <td>
         Country: <input type="radio" name="" id="" checked> India <sup>radio selection</sup><br>
+        Country: <input type="radio" name="" id="" checked> India <sup>radio selection</sup><br>
+        Country: <input type="checkbox" name="" id="" checked >India <sup>checkbox selection</sup><br>
         Country: <input type="checkbox" name="" id="" checked >India <sup>checkbox selection</sup><br>
         </td></tr>
-        <tr><td>Min , Max</td>
-            <td>
-                Range:<input type="range" name="" id="" min="10" max="15" size="15">
-            </td>
-        </tr>
-        <tr><td>Readonly</td>
-            <td>
-                Readonly text<input type="text" name="" id="" readonly size="40" placeholder="SORRY!  readonly attribute was applied">
-            </td>
-        </tr>
+        
 
     </table>
+    <td valign="top">
+    <table border="1">
+        <tr><td>Attribute:</td></tr>
+        <tr><td>Autofocus</td>
+            <td>
+                Use Google Search:
+                <input type="search" name="" id="" size="50" autofocus placeholder="Enter Text here to search    Attribute applied: autofocus"><br>
+                
+            </td>
+        </tr>
 
+        <tr><td>Disabled</td>
+            <td>
+            Country: <input type="text" name="" id=""
+            placeholder="Enter Country Name: India disabled"
+            disabled
+            size="50"></td></tr>
+            <tr><td>Readonly</td>
+                <td>
+                    Readonly text<input type="text" name="" id="" readonly size="40" placeholder="SORRY!  readonly attribute was applied">
+                </td>
+            </tr>
+            <tr><td>Min , Max</td>
+                <td>
+                    Range:<input type="range" name="" id="" min="10" max="15" size="15">
+                </td>
+            </tr>
+            <tr><td>Step</td>
+                <td><form action="" method="get">                 
+                    
+                    Select Number:
+            <input type="number" name="" id="" size="50" autocomplete="number" step="4" tabindex="-1" placeholder="Attribute applied: step      e.g., results -4,0,4,8,12 ">
+            <input type="reset" value="RESET"></form>
+        </td>
+    </tr>
+    <tr><td>tabindex</td>
+        <td>
+            <!-- <form action="" method="get">                  -->
+            
+            Select Number: <br>
+    <input type="number" name="" id="" size="30" autocomplete="number"  tabindex="-1" placeholder="Attribute applied: tabindex=-1  "><br>
+    <input type="number" name="" id="" size="30" autocomplete="number"  tabindex="0" placeholder="Attribute applied: tabindex=0 "><br>
+    <input type="number" name="" id="" size="30" autocomplete="number"  tabindex="1" placeholder="Attribute applied: tabindex=1  ">
+    <!-- <input type="reset" value="RESET"></form> -->
+</td>
+</tr>
+
+    </table>
+</table>
 
     <form action="" method="post"><br>
         Enter First Name :<br>
@@ -128,8 +165,10 @@
         disabled
         size="30"
                           ><br>
-        Country: <input type="radio" name="" id="" checked> India <sup>radio selection</sup><br>
-        Country: <input type="checkbox" name="" id="" checked >India <sup>checkbox selection</sup><br>
+        Country: <input type="radio" name="" id="" checked> India <sup>radio selection</sup>
+        <input type="radio" name="" id="" checked> India <sup>radio selection</sup><br><br>
+        Country: <input type="checkbox" name="" id="" checked >India <sup>checkbox selection</sup>
+        <input type="checkbox" name="" id="" checked >India <sup>checkbox selection</sup><br>
                  
 
         <br>
