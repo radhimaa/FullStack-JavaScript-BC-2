@@ -44,9 +44,9 @@ git add . && git commit -m "readme" && git push origin main
 <br>
 11-05-22 : [Introduction to Web and Html](https://fsjsv2assignmentsineuron.hashnode.dev/introduction-to-web-and-html) 
 <br>
-11-06-22 : [HTML's Audio and Video Elements](https://fsjsv2assignmentsineuron.hashnode.dev/html-audio-and-video-elements)[ **Example link**](https://codepen.io/radhimaa/pen/GRBJQKy)
+11-06-22 : [HTML's Audio and Video Elements](https://fsjsv2assignmentsineuron.hashnode.dev/html-audio-and-video-elements)[ **Example Code link**](https://codepen.io/radhimaa/pen/GRBJQKy)
 <br>
-11-06-22 : [HTML's Input Elements](https://fsjsv2assignmentsineuron.hashnode.dev/html-input-elements) 
+11-06-22 : [HTML's Input Elements](https://fsjsv2assignmentsineuron.hashnode.dev/html-input-elements) [ **Example Code link**](https://codepen.io/radhimaa/pen/PoBzvXm)
 <br>
 12-17-22 : [JavaScript's List of Array Methods](https://fsjsv2assignmentsineuron.hashnode.dev/array-methods-in-javascript) 
 
